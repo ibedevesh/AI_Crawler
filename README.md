@@ -18,7 +18,7 @@ This smart web crawler finds and collects content based on what you're looking f
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/ibedevesh/ai-crawler.git
+git clone [https://github.com/ibedevesh/ai-crawler.git](https://github.com/ibedevesh/AI_Crawler.git)
 cd ai-crawler
 ```
 
