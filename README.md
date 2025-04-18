@@ -85,6 +85,8 @@ The tool keeps track of what it's doing in `ai_content_crawler.log`, including:
 
 - Python 3.7+
 - Google Gemini API key
+- Google Search API Key
+- Google Search Engine ID
 - Internet connection
 - Required Python packages
 
